@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1433002788 source:/home/szrlee/PROJECTS/Framework_overlap/code/calcOverModu/main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<sstream>
+	<cctype>
+	<fstream>
+	"../basic.h"
+	"../Graph.h"
+	"../Community.h"
+	"../Metrics.h"
+
+1433002754 /home/szrlee/PROJECTS/Framework_overlap/code/basic.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<sstream>
+	<cctype>
+	<fstream>
+
+1432987092 /home/szrlee/PROJECTS/Framework_overlap/code/Graph.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<sstream>
+	<cctype>
+	<fstream>
+
+1432136489 /home/szrlee/PROJECTS/Framework_overlap/code/Community.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<sstream>
+	<cctype>
+	<fstream>
+
+1432041243 /home/szrlee/PROJECTS/Framework_overlap/code/Metrics_Overlapping.h
+	"Metric_Overlapping_Modularity.h"
+	"Metric_Overlapping_NMI.h"
+
+1433001507 /home/szrlee/PROJECTS/Framework_overlap/code/Metric_Overlapping_Modularity.h
+
+1432989703 /home/szrlee/PROJECTS/Framework_overlap/code/Metric_Overlapping_NMI.h
+
+1394725588 /home/szrlee/PROJECTS/Framework_overlap/code/Metrics.h
+	"Metric_Modularity.h"
+	"Metric_NMI.h"
+
+1433001473 /home/szrlee/PROJECTS/Framework_overlap/code/Metric_Modularity.h
+
+1432142008 /home/szrlee/PROJECTS/Framework_overlap/code/Metric_NMI.h
+
