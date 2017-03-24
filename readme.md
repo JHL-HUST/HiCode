@@ -134,11 +134,15 @@ Please cite our papers if you use the code in your paper:
 
 ### Acknowledgement
 In the program, we incorporates some open source codes as baseline algorithms from the following websites:
+
 Link communities
 https://github.com/bagrow/linkcomm
+
 OSLOM2 
 http://www.oslom.org/software.htm
+
 Modularity
 https://sourceforge.net/p/louvain/code/ci/default/tree/
+
 Infomap
 http://www.mapequation.org/code.html
