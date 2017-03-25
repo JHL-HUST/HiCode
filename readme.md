@@ -1,5 +1,5 @@
 # HICODE
-----------
+-------
 
 ## Compiling
 
@@ -80,10 +80,14 @@ The weakening method 'ReduceWeight' in paper indicates the 'Frameworks' should b
 ## Code Structure
 
 ### Framework
-The current framework is implemented in 'Framework_Reduce.h' etc., and the base class is 'Framework.h'. The most important function that need to be implemented is 'calcNextLayerGraph(Graph cur,Community comm)', which gives the current graph and a set of community, return value is the reduced graph.
+The current framework is implemented in some headfiles like 'Framework_Reduce.h' and the base class is 'Framework.h'. 
+
+The most important function that need to be implemented is 'calcNextLayerGraph(Graph cur,Community comm)', which gives the current graph and a set of community, return value is the reduced graph.
 
 ### Base Algorithms
-The current framework is implemented in 'SingleLayer_Modularity.h' etc., and the base class is 'SingleLayer_Method.h'. The most important function that need to be implemented is 'generateCommunity(string graphFile,string communityFile)', which takes in the graph file and using the algorithm to generate the communities and save in communityFile. 
+The current framework is implemented in some headfiles like 'SingleLayer_Modularity.h' and the base class is 'SingleLayer_Method.h'.
+
+The most important function that need to be implemented is 'generateCommunity(string graphFile,string communityFile)', which takes in the graph file and using the algorithm to generate the communities and save in communityFile. 
 
 ## Announcements
 ### Licence
