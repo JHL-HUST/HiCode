@@ -41,11 +41,18 @@ $ ./Main GRAPH_NAME.config
 
 ### Example
 
+Run 2-layers synthetic data:
 ```sh
 $ ./Main config/synl2.config
-you will find the community detection results in
+```
+
+You will find the community detection results in:
+```sh
 $ ./result_directory/{maxLayer, maxOriginal}*.gen
-and the ground truth communities are in
+```
+
+You can find the ground truth communities in:
+```
 $ ./data/synl2/Layer1.gen
 $ ./data/synl2/Layer2.gen
 ```
@@ -98,7 +105,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ### Notification
-Please email to us or setup a issue if you have any problems or find any bugs.
+Please email to us or setup an issue if you have any problems or find any bugs.
 
 Please cite our papers if you use the code in your paper:
 
@@ -135,14 +142,10 @@ Please cite our papers if you use the code in your paper:
 ### Acknowledgement
 In the program, we incorporates some open source codes as baseline algorithms from the following websites:
 
-Link communities
-https://github.com/bagrow/linkcomm
+* [Link Communities](https://github.com/bagrow/linkcomm)
 
-OSLOM2 
-http://www.oslom.org/software.htm
+* [OSLOM](http://www.oslom.org/software.htm)
 
-Modularity
-https://sourceforge.net/p/louvain/code/ci/default/tree/
+* [Louvain Method for Modularity](https://sourceforge.net/p/louvain/code/ci/default/tree/)
 
-Infomap
-http://www.mapequation.org/code.html
+* [Infomap](http://www.mapequation.org/code.html)
