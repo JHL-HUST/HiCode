@@ -93,7 +93,7 @@ The most important function that need to be implemented is 'generateCommunity(st
 ### Licence
 Based on the article "Hidden Community Detection in Social Networks"
 Copyright (C) 2017 He. Kun, Li. Yingru, Soundarajan. Sucheta, Hopcroft. John E.
-
+[[arXiv](https://arxiv.org/abs/1702.07462)]
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
