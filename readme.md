@@ -112,6 +112,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Please email to us or setup an issue if you have any problems or find any bugs.
 
 Please cite our papers if you use the code in your paper:
+            
+            @article{heli2018hidden,
+            title = "Hidden community detection in social networks",
+            journal = "Information Sciences",
+            volume = "425",
+            number = "Supplement C",
+            pages = "92 - 106",
+            year = "2018",
+            issn = "0020-0255",
+            doi = "https://doi.org/10.1016/j.ins.2017.10.019",
+            url = "http://www.sciencedirect.com/science/article/pii/S0020025517310101",
+            author = "Kun He and Yingru Li and Sucheta Soundarajan and John E. Hopcroft",
+            keywords = "Community detection, Hidden community, Structure mining, Social networks"
+            }
 
             @ARTICLE{2017arXiv170207462H,
               author = {{He}, K. and {Li}, Y. and {Soundarajan}, S. and {Hopcroft}, J.~E.},
