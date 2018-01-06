@@ -1,5 +1,6 @@
 # HICODE
--------
+
+Edited by Yingru Li @szrlee
 
 ## Compiling
 
