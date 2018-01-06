@@ -1,6 +1,6 @@
 # HICODE
 
-Edited by Yingru Li @szrlee
+Edited by [*Yingru Li*](https://github.com/szrlee).
 
 ## Compiling
 
